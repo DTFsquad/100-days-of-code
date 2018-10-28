@@ -2,6 +2,18 @@
 
 
 
+### Day 0: Octomber 26, 2018
+
+**Today's Progress**: After taken an online video package course with a provider I decided that way of training is not helping me at all. That was a tryout for the past almost 2 years. Today I decided to undertake some serios training for the next couple of months, followed by a JOB guarantee programme by one of the providers in London UK. Hoppefully by March 2019 I will do all the steps to be in that position to take a Junior Web Developer Role.
+
+**Thoughts** Started FreeCodeCamp.org curriculum and I will work on this basis until 15 January 2019 or sooner. If I will finish the curriculum early then mid January I am planning to start The Odin Project modules to reinforce the knowledge gained.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://learn.freecodecamp.org/)
+2. [The Odin Project](https://www.theodinproject.com/)
+
+
+
 ### Day 1: Octomber 27, 2018
 
 **Today's Progress**: I've STARTED the Responsive Web Design Certification which is aprox 300 hours to go thru.
