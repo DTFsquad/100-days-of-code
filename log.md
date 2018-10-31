@@ -78,4 +78,13 @@
 **Link(s) to work**
 1. [Nest anchor element in paragraph](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
 2. [Dead links with hash](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol)
-3. 
+3. [Image turn in link](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
+4. [Unordered lists](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list)
+5. [Ordered lists](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-an-ordered-list)
+6. [Text field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-text-field)
+7. [Placeholder to text field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field)
+8. [Form element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-form-element)
+9. [Submit button](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
+10.[Required field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
+11.[Set of radio buttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
+12.[Set of checkbox](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
