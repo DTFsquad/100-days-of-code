@@ -85,6 +85,10 @@
 7. [Placeholder to text field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field)
 8. [Form element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-form-element)
 9. [Submit button](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
-10.[Required field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
-11.[Set of radio buttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
-12.[Set of checkbox](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
+10. [Required field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
+11. [Set of radio buttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
+12. [Set of checkbox](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
+13. [Default radio and checkbox bttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default )
+14. [Div element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
+15. [DOCTYPE declaration](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
+16. 
