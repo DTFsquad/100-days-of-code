@@ -76,4 +76,6 @@
 **Thoughts** ---------------------------------
 
 **Link(s) to work**
-1. -------------------
+1. [Nest anchor element in paragraph](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
+2. [Dead links with hash](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol)
+3. 
