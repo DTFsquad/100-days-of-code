@@ -31,7 +31,7 @@
 
 ### Day 2: Octomber 28, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Just couple of challenges finished today. Iwill need to spped up my learning each day in order to have a full grasp on the FrontEnd side until the end of December in order to get on board with Job Guarantee programme on Just IT.
 
 **Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
 
@@ -49,31 +49,31 @@
 
 ### Day 3: Octomber 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I just had a look at one challange.
 
-**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+**Thoughts** I had just one challange solved as I had a day off and I was caught with home chores and personal life. Need to go past the daily life and have at leat 30 mins to 1 hour everyday of coding. 
 
 **Link(s) to work**
-1. 
+1. [Anchor Elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements/)
 
 
 
 ### Day 4: Octomber 30, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Day off, No progress.
 
-**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+**Thoughts** When I have a work day I find that I can progress with my learning to code, as opposite to my days off when I plan what to do, including to practice codem but I end up by not doint to mucj or anything at all.
 
 **Link(s) to work**
-1. 
+1. NONE
 
 
 
 ### Day 5: Octomber 31, 2018
 
-**Today's Progress**: 
+**Today's Progress**: ------------------------
 
-**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+**Thoughts** ---------------------------------
 
 **Link(s) to work**
-1. 
+1. -------------------
