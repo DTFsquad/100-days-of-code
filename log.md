@@ -101,3 +101,8 @@
 23. [CSS import Google font](https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
 24. [CSS fonts degrade](https://learn.freecodecamp.org/responsive-web-design/basic-css/specify-how-fonts-should-degrade)
 25. [CSS size images](https://learn.freecodecamp.org/responsive-web-design/basic-css/size-your-images)
+26. [CSS borders](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-borders-around-your-elements)
+27. [CSS border radius round corners](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-rounded-corners-with-border-radius)
+28. [CSS border radius circular images ](https://learn.freecodecamp.org/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
+29. [CSS background color to div](https://learn.freecodecamp.org/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
+30. [CSS set ID](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-id-of-an-element)
