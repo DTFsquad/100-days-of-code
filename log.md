@@ -92,6 +92,12 @@
 14. [Div element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
 15. [DOCTYPE declaration](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
 16. [HEAD and BODY tags](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
-
 17. [CSS text color](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text)
 18. [CSS selectors](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
+19. [CSS class to style](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-css-class-to-style-an-element)
+20. [CSS class for multiple elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class)
+21. [CSS font size change](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-font-size-of-an-element)
+22. [CSS set family font](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element)
+23. [CSS import Google font](https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
+24. [CSS fonts degrade](https://learn.freecodecamp.org/responsive-web-design/basic-css/specify-how-fonts-should-degrade)
+25. [CSS size images](https://learn.freecodecamp.org/responsive-web-design/basic-css/size-your-images)
