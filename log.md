@@ -44,17 +44,36 @@
 5. [Main hitm elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements)
 6. [Add images](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website)
 7. [External pages with anchor elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)
-8. 
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
 
+
+
+### Day 3: Octomber 29, 2018
+
+**Today's Progress**: 
+
+**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+
+**Link(s) to work**
+1. 
+
+
+
+### Day 4: Octomber 30, 2018
+
+**Today's Progress**: 
+
+**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+
+**Link(s) to work**
+1. 
+
+
+
+### Day 5: Octomber 31, 2018
+
+**Today's Progress**: 
+
+**Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
+
+**Link(s) to work**
+1. 
