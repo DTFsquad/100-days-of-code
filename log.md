@@ -19,7 +19,7 @@
 **Today's Progress**: I've STARTED the Responsive Web Design Certification which is aprox 300 hours to go thru. 
                       I did just 2 challanges today. 
                       I will need to raise up the challanges learned per day in order to have a proper understanding of the full module by the end of the week.
-                      I need to get my head into the basic and hit the ground running with all front end by the end of the year 2018.
+                      I need to get my head into the basics and hit the ground running with all frontEnd by the end of the year 2018.
 
 **Thoughts** I've recently started coding, with plans to LEARN/PRACTICE as much as possible everyday. I started this challenge in between my daily work routine (e-mails, calls and everything in between). I hope I can keep up with doing the challanges and build the portfolio in my work breath moments and a bit at home when I dont fell that tired. 
 
@@ -31,7 +31,7 @@
 
 ### Day 2: Octomber 28, 2018
 
-**Today's Progress**: Just couple of challenges finished today. Iwill need to spped up my learning each day in order to have a full grasp on the FrontEnd side until the end of December in order to get on board with Job Guarantee programme on Just IT.
+**Today's Progress**: Just couple of challenges finished today. I will need to speed up my learning each day in order to have a full grasp on the FrontEnd side until the end of December in order to get on board with Job Guarantee programme on Just IT.
 
 **Thoughts** Not a great start in my first day as learning. Being at work over weekend, sometimes I try to learn sometimes in between work task and I get caught up with work chores. 
 
@@ -62,7 +62,7 @@
 
 **Today's Progress**: Day off, No progress.
 
-**Thoughts** When I have a work day I find that I can progress with my learning to code, as opposite to my days off when I plan what to do, including to practice codem but I end up by not doint to mucj or anything at all.
+**Thoughts** When I have a work day I find that I can progress with my learning to code, as opposite to my days off when I plan what to do, including to practice code but I end up by not doing to much or anything at all.
 
 **Link(s) to work**
 1. NONE
@@ -71,7 +71,7 @@
 
 ### Day 5: Octomber 31, 2018
 
-**Today's Progress**: ------------------------
+**Today's Progress**: Today I finished the "Basic HTML and HTML5" from the "Responsive Web Design Certification". I will go ahead to study the "Basic CSS"
 
 **Thoughts** ---------------------------------
 
@@ -91,4 +91,7 @@
 13. [Default radio and checkbox bttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default )
 14. [Div element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
 15. [DOCTYPE declaration](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
-16. 
+16. [HEAD and BODY tags](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
+
+17. [CSS text color](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text)
+18. [CSS selectors](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
