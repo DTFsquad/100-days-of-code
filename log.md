@@ -116,4 +116,36 @@
 **Thoughts** ---------------
 
 **Link(s) to work**
-1. --------------------
+1. [CSS ID for element](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element)
+2. [CSS padding](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
+3. [CSS margin](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-margin-of-an-element)
+4. [CSS negative margin](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
+5. [CSS each side padding](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element)
+6. [CSS each side margin](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
+7. [CSS clockwise padding](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element)
+8. [CSS clockwise margin](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+9. [CSS attribute selectors](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements)
+10. [CSS absolute vs relative units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units)
+11. [CSS style HTML body](https://learn.freecodecamp.org/responsive-web-design/basic-css/style-the-html-body-element)
+12. [CSS inherit style](https://learn.freecodecamp.org/responsive-web-design/basic-css/inherit-styles-from-the-body-element)
+13. [CSS prioritize type of style](https://learn.freecodecamp.org/responsive-web-design/basic-css/prioritize-one-style-over-another)
+14. [CSS overrise styles](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-styles-in-subsequent-css)
+15. [CSS override ID over class](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes)
+16. [CSS overrite with inline](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-class-declarations-with-inline-styles)
+17. [CSS overrite with IMPORTANT](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important)
+18. [CSS hex code](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-for-specific-colors)
+19. [CSS mix with hex code](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-to-mix-colors)
+20. [CSS abbreviated hex code](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-abbreviated-hex-code)
+21. [CSS rgb color](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-rgb-values-to-color-elements)
+22. [CSS rgb mix](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-rgb-to-mix-colors)
+23. [CSS variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
+24. [CSS custom variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/create-a-custom-css-variable)
+25. [CSS use custom variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-custom-css-variable)
+26. [CSS fallback value variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
+27. [CSS browser fallbacks](https://learn.freecodecamp.org/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks)
+28. [CSS cascading variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/cascading-css-variables)
+29. [CSS variable for area](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-a-variable-for-a-specific-area)
+30. [CSS media query change a variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+31. 
+
+
