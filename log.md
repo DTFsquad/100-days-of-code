@@ -73,7 +73,7 @@
 
 **Today's Progress**: Today I finished the "Basic HTML and HTML5" from the "Responsive Web Design Certification". I will go ahead to study the "Basic CSS"
 
-**Thoughts** ---------------------------------
+**Thoughts** Today I did managed to work towards the challanges in freeCode Camp more then 30 mins. I did not stayed the all 30 mins continuos, but instead I did it in sprints of around 5 mins each on in between the work day (I work in a call center, so can be quite busy some times).
 
 **Link(s) to work**
 1. [Nest anchor element in paragraph](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
@@ -106,3 +106,14 @@
 28. [CSS border radius circular images ](https://learn.freecodecamp.org/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
 29. [CSS background color to div](https://learn.freecodecamp.org/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
 30. [CSS set ID](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-id-of-an-element)
+
+
+
+### Day 6: November 1, 2018
+
+**Today's Progress**: -------------------
+
+**Thoughts** ---------------
+
+**Link(s) to work**
+1. --------------------
