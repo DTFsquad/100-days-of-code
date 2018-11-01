@@ -146,6 +146,29 @@
 28. [CSS cascading variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/cascading-css-variables)
 29. [CSS variable for area](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-a-variable-for-a-specific-area)
 30. [CSS media query change a variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
-31. 
+31. [AVD visual balance with text align](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property)
+32. [AVD width adjust](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property)
+33. [ADV height adjust](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property)
+34. [ADV strong tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold)
+35. [ADV u tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-u-tag-to-underline-text)
+36. [ADV em tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-em-tag-to-italicize-text)
+37. [ADV s tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-s-tag-to-strikethrough-text)
+38. [ADV hr tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element)
+39. [ADV background color](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text)
+40. [ADV size adjust](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-size-of-a-header-versus-a-paragraph-tag)
+41. [ADV box shadow to a card](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
+42. [ADV decrease opacity](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element)
+43. [ADV text transform uppercase](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase)
+44. [ADV font size multiple elements](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-elements)
+45. [ADV font weight multiple elements](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-weight-for-multiple-heading-elements)
+46. [ADV font size paragraph](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text)
+47. [ADV line height](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-line-height-of-paragraphs)
+48. [ADV hover state over anchor tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag)
+49. 
+
+
+
+
+
 
 
