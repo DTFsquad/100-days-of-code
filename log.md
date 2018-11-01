@@ -113,7 +113,7 @@
 
 **Today's Progress**: Today I did managed to finish the Basic CSS challanges and moved on to the Applied Visual Design Challenges.
 
-**Thoughts** Basic HTML and CSS was quite fun and simple to understand. I hope I will grasp the future challanges with the same ease and fun. Great start of the month with incresead state of mind and progression. I did managed in the last 2 days to overcome my lazy mindset and got at least 30 mins of coding challanges. Will continue to study the module of basic training and hopefully I will start the module final projects by the end of the week.
+**Thoughts** Basic HTML and CSS was quite fun and simple to understand. I hope I will grasp the future challanges with the same ease and fun. Great start of the month with incresead state of mind and progression. I did managed in the last 2 days to overcome my lazy mindset and got at least 30 mins of coding challanges. Will continue to study the module of basic training and hopefully I will start the module final projects by the end of the week. Today was an extra good day with lots of challanges done (around 70) and lots of new stuff learned.
 
 **Link(s) to work**
 1. [CSS ID for element](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element)
@@ -176,9 +176,15 @@
 58. [ADV complementary colors](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
 59. [ADV hue of color](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
 60. [ADV tone of color](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
-61. 
-
-
+61. [ADV gradual linear gradient](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
+62. [ADV linear gradient for striped line](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
+63. [ADV texture pattern with image](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image)
+64. [ADV transform scale for size elements](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element)
+65. [ADV transform scale on hover](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover)
+66. [ADV skewX](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis)
+67. [ADV skewY](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis)
+68. [ADV create graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
+69. [ADV complex shapping with HTML and CSS](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
 
 
 
