@@ -111,9 +111,9 @@
 
 ### Day 6: November 1, 2018
 
-**Today's Progress**: -------------------
+**Today's Progress**: Today I did managed to finish the Basic CSS challanges and moved on to the Applied Visual Design Challenges.
 
-**Thoughts** ---------------
+**Thoughts** Basic HTML and CSS was quite fun and simple to understand. I hope I will grasp the future challanges with the same ease and fun. Great start of the month with incresead state of mind and progression. I did managed in the last 2 days to overcome my lazy mindset and got at least 30 mins of coding challanges. Will continue to study the module of basic training and hopefully I will start the module final projects by the end of the week.
 
 **Link(s) to work**
 1. [CSS ID for element](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element)
