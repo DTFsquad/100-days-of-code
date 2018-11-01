@@ -164,8 +164,19 @@
 46. [ADV font size paragraph](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text)
 47. [ADV line height](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/set-the-line-height-of-paragraphs)
 48. [ADV hover state over anchor tag](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag)
-49. 
-
+49. [ADV elements relative positioning](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
+50. [ADV css offsets](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
+51. [ADV lock element to parent](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning)
+52. [ADV lock element to fix position](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning)
+53. [ADV float property](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property)
+54. [ADV z-index overlapping](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property)
+55. [ADV center using margin](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property)
+56. [ADV complementary colors](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-complementary-colors)
+57. [ADV tertiary colors](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-tertiary-colors)
+58. [ADV complementary colors](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
+59. [ADV hue of color](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
+60. [ADV tone of color](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
+61. 
 
 
 
