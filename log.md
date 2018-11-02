@@ -188,4 +188,23 @@
 
 
 
+### Day 7: November 2, 2018
+
+**Today's Progress**: ----------------------------
+**Thoughts** ------------------------------
+
+**Link(s) to work**
+1. [AVD keyframes animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
+2. [AVD animation for hover](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
+3. [AVD fill mode animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+4. [AVD create movement animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-movement-using-css-animation)
+5. [AVD fading elements](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right)
+6. [AVD animate infinite count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count)
+7. [AVD css heartbead animation count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+8. [AVD animate variable rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates)
+9. [AVD multiple variable rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates)
+10. 
+
+
+
 
