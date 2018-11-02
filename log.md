@@ -203,8 +203,8 @@
 7. [AVD css heartbead animation count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 8. [AVD animate variable rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates)
 9. [AVD multiple variable rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates)
-10. 
-
-
-
+10. [AVD animation timing](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords)
+11. [AVD bezier curves](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
+12. [AVD bezier curve a graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic)
+13. 
 
