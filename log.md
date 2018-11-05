@@ -238,7 +238,7 @@
 
 ### Day 10: November 5, 2018
 
-**Today's Progress**: Finished the Applied Accessibility challanges and started the Responsive Web Design Principles
+**Today's Progress**: Finished the Applied Accessibility challanges and the Responsive Web Design Principles. Started CSS Flexbox
 **Thoughts** ------------------------------
 
 **Link(s) to work**
@@ -255,6 +255,28 @@
 11. [Acces keys naigation](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys)
 12. [Tabindex for focus on element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
 13. [Tabindex order of focus](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
-14. 
+14. [Media query](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query)
+15. [Responsive image](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+16. [Retina for higher resolution](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays)
+17. [Typography responsive](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+18. [Display flex](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+19. [Tweet flex](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed)
+20. [Flex direction property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+21. [Flex direction for rows](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+22. [Flex direction for column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
+23. [Flex direction for tweet column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+24. [Align with justify content](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
+25. [Align justify content in tweet](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+26. [Align with align items](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
+27. [Align items in tweet](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
+28. [Flex wrap property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+29. [Flex shrink property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+30. [Flex grow property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items)
+31. [Flex basis property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+32. [Flex shorthand property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
+
+
+
+
 
 
