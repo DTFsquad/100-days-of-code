@@ -190,8 +190,8 @@
 
 ### Day 7: November 2, 2018
 
-**Today's Progress**: ----------------------------
-**Thoughts** ------------------------------
+**Today's Progress**: Today I did managed to finish 12 challanges
+**Thoughts** I do think that I can do better in the matter of the knolodge and number of challanges learned everyday. Until know I did enjoyed every bit of learning in these module.
 
 **Link(s) to work**
 1. [AVD keyframes animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
@@ -206,5 +206,40 @@
 10. [AVD animation timing](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords)
 11. [AVD bezier curves](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
 12. [AVD bezier curve a graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic)
-13. 
 
+
+
+### Day 8: November 3, 2018
+
+**Today's Progress**: Just one challange passed today
+**Thoughts** Being in my day off I tend to lean over and not doing the work for the day. I need to inprove the daily imput of challanges even in days off.
+
+**Link(s) to work**
+1. [AVD bezier curver more natural](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
+
+
+
+### Day 9: November 4, 2018
+
+**Today's Progress**: I did managed to have 9 challanges done today.
+**Thoughts** Days off are filled with lots of distractions and I need to find at leat 1 hour, including in these d ays, to make my daily challanges matter.
+
+**Link(s) to work**
+1. [ALT element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
+2. [ALT element blank](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank)
+3. [Headings elements](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
+4. [Main element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+5. [Article element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+6. [Header landmark element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark)
+7. [Nav landmark element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-nav-landmark)
+8. [Footer landmark element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark)
+9. [Audio element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element)
+
+
+### Day 10: November 5, 2018
+
+**Today's Progress**: ----------------------------
+**Thoughts** ------------------------------
+
+**Link(s) to work**
+1. 
