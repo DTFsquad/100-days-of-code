@@ -242,4 +242,19 @@
 **Thoughts** ------------------------------
 
 **Link(s) to work**
-1. 
+1. [Figure element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element/)
+2. [Label element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
