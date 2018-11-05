@@ -191,6 +191,7 @@
 ### Day 7: November 2, 2018
 
 **Today's Progress**: Today I did managed to finish 12 challanges
+
 **Thoughts** I do think that I can do better in the matter of the knolodge and number of challanges learned everyday. Until know I did enjoyed every bit of learning in these module.
 
 **Link(s) to work**
@@ -212,6 +213,7 @@
 ### Day 8: November 3, 2018
 
 **Today's Progress**: Just one challange passed today
+
 **Thoughts** Being in my day off I tend to lean over and not doing the work for the day. I need to inprove the daily imput of challanges even in days off.
 
 **Link(s) to work**
@@ -222,6 +224,7 @@
 ### Day 9: November 4, 2018
 
 **Today's Progress**: I did managed to have 9 challanges done today.
+
 **Thoughts** Days off are filled with lots of distractions and I need to find at leat 1 hour, including in these days, to make my daily challanges matter.
 
 **Link(s) to work**
@@ -239,6 +242,7 @@
 ### Day 10: November 5, 2018
 
 **Today's Progress**: Finished the Applied Accessibility challanges and the Responsive Web Design Principles. Started CSS Flexbox
+
 **Thoughts** ------------------------------
 
 **Link(s) to work**
