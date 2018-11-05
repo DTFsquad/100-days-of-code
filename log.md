@@ -222,7 +222,7 @@
 ### Day 9: November 4, 2018
 
 **Today's Progress**: I did managed to have 9 challanges done today.
-**Thoughts** Days off are filled with lots of distractions and I need to find at leat 1 hour, including in these d ays, to make my daily challanges matter.
+**Thoughts** Days off are filled with lots of distractions and I need to find at leat 1 hour, including in these days, to make my daily challanges matter.
 
 **Link(s) to work**
 1. [ALT element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
@@ -238,23 +238,23 @@
 
 ### Day 10: November 5, 2018
 
-**Today's Progress**: ----------------------------
+**Today's Progress**: Finished the Applied Accessibility challanges and started the Responsive Web Design Principles
 **Thoughts** ------------------------------
 
 **Link(s) to work**
 1. [Figure element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element/)
 2. [Label element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
-3. 
-
-
-
-
-
-
-
-
-
-
-
+3. [Fieldset element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+4. [Date picker](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-an-accessible-date-picker)
+5. [Datetime attribute](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute)
+6. [Screen reader only with custom CSS](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
+7. [Hight contrast text](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+8. [Colorblindness with contrast](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast)
+9. [Colors that convey info](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+10. [Descriptive link text](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text)
+11. [Acces keys naigation](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys)
+12. [Tabindex for focus on element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
+13. [Tabindex order of focus](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+14. 
 
 
