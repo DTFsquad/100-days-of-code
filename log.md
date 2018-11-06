@@ -283,12 +283,39 @@
 
 ### Day 11: November 6, 2018
 
-**Today's Progress**: --------------------------
+**Today's Progress**: I did managed to finish Responsive Web Design Principles and start CSS Grid
 
 **Thoughts** ------------------------------
 
 **Link(s) to work**
-1. 
+1. [Order property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
+2. [Align self property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property)
+3. [First CSS grid](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-your-first-css-grid)
+4. [Columns with grid template](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
+5. [Add rows with grid template](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+6. [CSS grid units for columns size](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+7. [Column gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap)
+8. [Row gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
+9. [Grid gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
+10. [Control spacing on column](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-column-to-control-spacing)
+11. [Control spacing on row](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
+12. [Align with justify self](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
+13. [Align self property](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+14. [Align all items horizontally](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+15. [Align all items](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
+16. [Divide into area template](https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
+17. [Grid area property to put items](https://learn.freecodecamp.org/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property)
+18. [Grid without a area template](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
+19. 
+
+
+
+
+
+
+
+
+
 
 
 
