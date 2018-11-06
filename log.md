@@ -241,9 +241,9 @@
 
 ### Day 10: November 5, 2018
 
-**Today's Progress**: Finished the Applied Accessibility challanges and the Responsive Web Design Principles. Started CSS Flexbox
+**Today's Progress**: 32 challanges done today. Finished the Applied Accessibility challanges and the Responsive Web Design Principles. Started CSS Flexbox
 
-**Thoughts** ------------------------------
+**Thoughts** I did managed to understand lot of HTML and CSS challanges and their application fields. I do want to implement almost everything to my personal web site once I will start the creation of it.
 
 **Link(s) to work**
 1. [Figure element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element/)
@@ -281,6 +281,14 @@
 
 
 
+### Day 11: November 6, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------------
+
+**Link(s) to work**
+1. 
 
 
 
