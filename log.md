@@ -283,9 +283,9 @@
 
 ### Day 11: November 6, 2018
 
-**Today's Progress**: I did managed to finish Responsive Web Design Principles and start CSS Grid
+**Today's Progress**: Done 24 challanges and finished the Responsive Web Design challanges. I did managed to finish Responsive Web Design Principles and start CSS Grid
 
-**Thoughts** ------------------------------
+**Thoughts** Today I done all the challanges in the 1st module. I feel just great that I did made it that quick and did understand the basic world of frontend web dev. I will embark to apply these skills, to the module projects challanges, starting tomorrow morning. Hopefully I will manage to do these projects by the end of the week.
 
 **Link(s) to work**
 1. [Order property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
@@ -313,7 +313,9 @@
 23. [Media queries for responsive layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
 24. [Grids into a grid](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids)
 
-25. 
+
+
+
 
 
 
