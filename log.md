@@ -306,12 +306,14 @@
 16. [Divide into area template](https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
 17. [Grid area property to put items](https://learn.freecodecamp.org/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property)
 18. [Grid without a area template](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
-19. 
+19. [Repeat function](https://learn.freecodecamp.org/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function)
+20. [Minmax function](https://learn.freecodecamp.org/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function)
+21. [Auto-fill layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
+22. [Auto-fit layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit)
+23. [Media queries for responsive layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
+24. [Grids into a grid](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids)
 
-
-
-
-
+25. 
 
 
 
