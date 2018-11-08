@@ -317,16 +317,23 @@
 
 ### Day 12: November 7, 2018
 
-**Today's Progress**: ----------------
+**Today's Progress**: Started 1st project in Responsive Web Design projects
 
-**Thoughts** -----------------
+**Thoughts** I did understant and done the main core requirements in the project, but I want to add more personal toucj and more tehnical chanllanges that I learned into it.
 
 **Link(s) to work**
-1. [Tribute page Tesla project](https://codepen.io/florin-dumitru/pen/NExVdw)
+1. [TESLA tribute page #freeCodeCamp #100 daysofcoding](https://codepen.io/florin-dumitru/pen/dQMPrE)
 
 
 
+### Day 13: November 8, 2018
 
+**Today's Progress**: Same first project working on it.
+
+**Thoughts** I need to finish the 1st project and move on to the next one and do all 5 projects in a decent manner by the end of the week... 3 days left!
+
+**Link(s) to work**
+1. [TESLA tribute page #freeCodeCamp #100 daysofcoding](https://codepen.io/florin-dumitru/pen/dQMPrE)
 
 
 
