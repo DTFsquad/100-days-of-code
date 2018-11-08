@@ -315,7 +315,14 @@
 
 
 
+### Day 12: November 7, 2018
 
+**Today's Progress**: ----------------
+
+**Thoughts** -----------------
+
+**Link(s) to work**
+1. [Tribute page Tesla project](https://codepen.io/florin-dumitru/pen/NExVdw)
 
 
 
