@@ -333,18 +333,18 @@
 **Thoughts** I need to finish the 1st project and move on to the next one and do all 5 projects in a decent manner by the end of the week... 3 days left!
 
 **Link(s) to work**
-1. [TESLA tribute page #freeCodeCamp #100 daysofcoding](https://codepen.io/florin-dumitru/pen/dQMPrE)
+1. [TESLA tribute page #freeCodeCamp #100daysOfCode](https://codepen.io/florin-dumitru/pen/dQMPrE)
 
 
 
 ### Day 14: November 9, 2018
 
-**Today's Progress**: ---------------------
+**Today's Progress**: 2nd project started and finished
 
-**Thoughts** ------------------------------
+**Thoughts** The work is get done slow, i NEED to step up the speed and try to commit more often and understant more depth into the tehnology.
 
 **Link(s) to work**
-1. ---------------------
+1. [Developer world - Survey Form #freeCodeCamp #100daysOfCode](https://codepen.io/florin-dumitru/pen/dQXqVe)
 
 
 
