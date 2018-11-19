@@ -350,7 +350,7 @@
 
 ### Day 15: November 10, 2018
 
-**Today's Progress**: ----------------------
+**Today's Progress**: ---------3rd-------------
 
 **Thoughts** --------------------------
 
@@ -361,7 +361,7 @@
 
 ### Day 16: November 11, 2018
 
-**Today's Progress**: ----------------------
+**Today's Progress**: --------4th--------------
 
 **Thoughts** -----------------------
 
@@ -372,7 +372,7 @@
 
 ### Day 17: November 12, 2018
 
-**Today's Progress**: -------------------------
+**Today's Progress**: --------5th-----------------
 
 **Thoughts** -----------------------
 
@@ -388,7 +388,8 @@
 **Thoughts** ------------------------
 
 **Link(s) to work**
-1. -----------------------------
+1. [Comment JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
+2. 
 
 
 
