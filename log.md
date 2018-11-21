@@ -341,7 +341,7 @@
 
 **Today's Progress**: 2nd project started and finished
 
-**Thoughts** The work is get done slow, i NEED to step up the speed and try to commit more often and understant more depth into the tehnology.
+**Thoughts** The work is get done slow, I NEED to step up the speed and try to commit more often and understant more depth into the tehnology.
 
 **Link(s) to work**
 1. [Developer world - Survey Form #freeCodeCamp #100daysOfCode](https://codepen.io/florin-dumitru/pen/dQXqVe)
@@ -350,12 +350,12 @@
 
 ### Day 15: November 10, 2018
 
-**Today's Progress**: ---------3rd-------------
+**Today's Progress**: 3rd project is done
 
-**Thoughts** --------------------------
+**Thoughts** It was a hard start, but I figured out that the design can be made by my own taste and improvend as I see fit. I neded a bit to figure that out, after initially I did try to stck to the initial design. I redid the general design and made the separation of layots to fit my colours.
 
 **Link(s) to work**
-1. --------------------------
+1. [Baby hooded towel Landing Page](https://codepen.io/florin-dumitru/pen/MzvPVL)
 
 
 
@@ -389,8 +389,19 @@
 
 **Link(s) to work**
 1. [Comment JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
-2. 
-
+2. [Declare JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
+3. [Storing values](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)
+4. [init variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)
+5. [uninit variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
+6. [case sensitive in var](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
+7. [add numbers in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)
+8. [substract in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript)
+9. [multiply in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript)
+10. [divide in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript)
+11. [increment in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript)
+12. [decrement in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript)
+13. [decimal numbers in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)
+14. [multiply decimals in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript)
 
 
 ### Day 19: November 14, 2018
@@ -400,8 +411,16 @@
 **Thoughts** -------------------------
 
 **Link(s) to work**
-1. -------------------------
-
+1. [divide decimals in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)
+2. [find remainder in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)
+3. [compound assigment add in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)
+4. [compound assigment sub in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)
+5. [compound assigment multi in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
+6. [compound assigment div in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
+7. [declare var](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
+8. [escape quotes](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)
+9. [quoting strings](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes)
+10. [escape sequences](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
 
 
 ### Day 20: November 15, 2018
@@ -427,6 +446,61 @@
 
 
 ### Day 22: November 17, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------
+
+**Link(s) to work**
+1. -----------------------------
+
+
+
+### Day 23: November 18, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------
+
+**Link(s) to work**
+1. -----------------------------
+
+
+
+### Day 24: November 19, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------
+
+**Link(s) to work**
+1. -----------------------------
+
+
+
+### Day 25: November 20, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------
+
+**Link(s) to work**
+1. -----------------------------
+
+
+
+### Day 26: November 21, 2018
+
+**Today's Progress**: --------------------------
+
+**Thoughts** ------------------------
+
+**Link(s) to work**
+1. -----------------------------
+
+
+
+### Day 27: November 22, 2018
 
 **Today's Progress**: --------------------------
 
